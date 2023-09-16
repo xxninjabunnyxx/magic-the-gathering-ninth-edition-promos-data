@@ -1,0 +1,112 @@
+---
+object: card
+id: 4638a30d-48e9-42cb-bf5f-001b4259391c
+oracle_id: e3c4c27d-f263-4c69-a4fe-2928136ff68b
+multiverse_ids: []
+tcgplayer_id: 38420
+cardmarket_id: 17732
+name: Force of Nature
+lang: en
+released_at: '2005-07-29'
+uri: https://api.scryfall.com/cards/4638a30d-48e9-42cb-bf5f-001b4259391c
+scryfall_uri: https://scryfall.com/card/p9ed/242%E2%98%85/force-of-nature?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/6/4638a30d-48e9-42cb-bf5f-001b4259391c.jpg?1606845621
+  normal: https://cards.scryfall.io/normal/front/4/6/4638a30d-48e9-42cb-bf5f-001b4259391c.jpg?1606845621
+  large: https://cards.scryfall.io/large/front/4/6/4638a30d-48e9-42cb-bf5f-001b4259391c.jpg?1606845621
+  png: https://cards.scryfall.io/png/front/4/6/4638a30d-48e9-42cb-bf5f-001b4259391c.png?1606845621
+  art_crop: https://cards.scryfall.io/art_crop/front/4/6/4638a30d-48e9-42cb-bf5f-001b4259391c.jpg?1606845621
+  border_crop: https://cards.scryfall.io/border_crop/front/4/6/4638a30d-48e9-42cb-bf5f-001b4259391c.jpg?1606845621
+mana_cost: "{2}{G}{G}{G}{G}"
+cmc: 6.0
+type_line: Creature — Elemental
+oracle_text: |-
+  Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+  At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
+power: '8'
+toughness: '8'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e55f6145-ebd1-4e6d-b72a-7aab9ed7b058
+set: p9ed
+set_name: Ninth Edition Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e55f6145-ebd1-4e6d-b72a-7aab9ed7b058
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap9ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p9ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4638a30d-48e9-42cb-bf5f-001b4259391c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae3c4c27d-f263-4c69-a4fe-2928136ff68b&unique=prints
+collector_number: 242★
+digital: false
+rarity: rare
+watermark: mtg
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: 355404c7-93f2-4632-a7c4-6031e223e919
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- release
+edhrec_rank: 21176
+penny_rank: 7829
+prices:
+  usd: 
+  usd_foil: '0.51'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.49'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Force+of+Nature&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Force+of+Nature&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Force+of+Nature
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38420?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Force+of+Nature&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Force+of+Nature&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

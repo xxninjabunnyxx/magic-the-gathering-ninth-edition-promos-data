@@ -1,0 +1,18 @@
+---
+object: set
+id: e55f6145-ebd1-4e6d-b72a-7aab9ed7b058
+code: p9ed
+name: Ninth Edition Promos
+uri: https://api.scryfall.com/sets/e55f6145-ebd1-4e6d-b72a-7aab9ed7b058
+scryfall_uri: https://scryfall.com/sets/p9ed
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ap9ed&unique=prints
+released_at: '2005-07-29'
+set_type: promo
+card_count: 2
+parent_set_code: 9ed
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: lea
+block: Core Set
+icon_svg_uri: https://svgs.scryfall.io/sets/9ed.svg?1694404800
